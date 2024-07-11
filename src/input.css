@@ -1,0 +1,7 @@
+/* input.css -> postCss (js) -> output.css (standar css) */
+/* @tailwind akan diproses oleh postCss */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
